@@ -1,0 +1,9 @@
+[submodule "payroll-challenge-api"]
+	path = payroll-challenge-api
+	url = https://github.com/brmatola/payroll-challenge-api
+[submodule "payroll-challenge-ui"]
+	path = payroll-challenge-ui
+	url = https://github.com/brmatola/payroll-challenge-ui
+[submodule "payroll-challenge-infra"]
+	path = payroll-challenge-infra
+	url = https://github.com/brmatola/payroll-challenge-infra
